@@ -1,9 +1,9 @@
 {
+  "homepage": "https://github.com/BrunoCantarelli/Tela-Simples-Login-ReactJS",
   "name": "telalogin",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/BrunoCantarelli/Tela-Simples-Login-ReactJS.git",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
